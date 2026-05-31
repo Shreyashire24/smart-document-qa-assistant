@@ -1,0 +1,11 @@
+Photosynthesis: A Short Overview
+
+Photosynthesis is the biological process by which green plants, algae, and some bacteria convert light energy into chemical energy. The process takes place inside specialised organelles called chloroplasts, which contain the green pigment chlorophyll. Chlorophyll absorbs energy from sunlight, especially in the red and blue parts of the visible spectrum, and uses that energy to drive a series of chemical reactions.
+
+During photosynthesis, water absorbed by the roots and carbon dioxide taken in from the air are combined to produce glucose and oxygen. Glucose is stored as starch and provides the plant with the energy it needs to grow, repair tissue, and reproduce. Oxygen is released into the atmosphere as a by-product and is essential for the survival of most animals on Earth.
+
+Photosynthesis is divided into two main stages: the light-dependent reactions and the light-independent reactions, also known as the Calvin cycle. The light-dependent reactions occur in the thylakoid membranes of the chloroplast and require direct sunlight to function. The Calvin cycle occurs in the stroma of the chloroplast and does not require light directly, although it depends on the products of the light-dependent reactions.
+
+Several factors influence the rate of photosynthesis, including light intensity, temperature, carbon dioxide concentration, and water availability. When any of these factors is limited, the overall rate of photosynthesis slows down. Understanding these factors is important in agriculture, where farmers and researchers try to maximise crop yield by providing optimal growing conditions.
+
+Photosynthesis is also a major part of the global carbon cycle. By absorbing carbon dioxide from the atmosphere, plants help to regulate the planet's climate. Large forests, such as the Amazon rainforest, store huge amounts of carbon in their biomass and play a critical role in maintaining the balance of greenhouse gases in the atmosphere.
